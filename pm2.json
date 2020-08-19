@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "vs-image-optimizer",
+      "script": "index.js"
+    }
+  ]
+}

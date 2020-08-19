@@ -1,0 +1,25 @@
+{
+  "name": "vs-image-optimizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/videosoft/vs-image-optimizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/videosoft/vs-image-optimizer/issues"
+  },
+  "homepage": "https://github.com/videosoft/vs-image-optimizer#readme",
+  "dependencies": {
+    "chokidar": "^3.4.2",
+    "globby": "^11.0.1",
+    "sharp": "^0.25.4"
+  }
+}
